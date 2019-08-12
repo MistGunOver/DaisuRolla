@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Daisu Rolla</string>
+    <string name="Add">+</string>
+    <string name="Take">-</string>
+    <string name="todo">TODO</string>
+</resources>
